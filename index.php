@@ -1,5 +1,5 @@
 <?php require_once('header.php'); ?>
-<div class="wrapper flex-between vert-space">
+<div class="wrapper flex-center vert-space">
     <main>
         <h1>The Band spiller op</h1>
 
