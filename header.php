@@ -9,6 +9,7 @@
 </head>
 <body>
 <header>
+    <div class="wrapper">
 <a href="index.php">
     <img src="css/img/logo.png" id="logo" alt="logo">
 </a>
@@ -20,4 +21,5 @@
         <a href="index.php"><li>Info</li></a>
     </ul>
 </nav>
+</div>
 </header>
