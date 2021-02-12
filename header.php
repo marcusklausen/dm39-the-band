@@ -16,7 +16,7 @@
 <nav>
     <ul class="flex-right">
         <a href="index.php"><li>Medlemmer</li></a>
-        <a href="index.php"><li>Live</li></a>
+        <a href="live.php"><li>Live</li></a>
         <a href="index.php"><li>Merchandise</li></a>
         <a href="index.php"><li>Info</li></a>
     </ul>

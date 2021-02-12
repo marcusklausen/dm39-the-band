@@ -49,6 +49,10 @@ ul a {
     font-size: 1.2em;
 }
 
+main {
+    padding-right:30px;
+}
+
 main p {
     line-height: 1.5em;
     margin-bottom:1em;
@@ -56,6 +60,18 @@ main p {
 
 main h1 {
     padding:1em 0;
+}
+
+main ul.no-style {
+    list-style: none;
+}
+
+main ul li {
+    padding:0.2em 0;
+}
+
+aside img {
+    max-width:600px;
 }
 
 
