@@ -12,7 +12,7 @@
 
 header {
     background: url('img/banner.jpg');
-    padding: 20px;
+    padding: 20px 20px 15px 20px;
 }
 
 header img#logo {
@@ -42,7 +42,7 @@ header img#logo {
 
 nav ul {
     list-style: none;
-    padding: 10px 0;
+    padding: 10px 0 0 0;
 }
 
 ul a {
