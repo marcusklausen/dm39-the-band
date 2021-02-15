@@ -46,11 +46,11 @@ nav ul {
 }
 
 ul a {
-    padding: 0 20px;
+    padding: 0  20px 0 20px;
 }
 
 nav ul a:last-child {
-    padding-right:0;
+    padding: 0 0 0 20px;
 }
 
 ul a {
