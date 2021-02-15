@@ -50,7 +50,7 @@ ul a {
 }
 
 nav ul a:last-child {
-    padding:0;
+    padding-right:0;
 }
 
 ul a {
